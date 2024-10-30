@@ -1,0 +1,11 @@
+body {
+  background-color: #e0f7fa; /* 부드러운 파란색 배경 */
+}
+
+#weatherInfo {
+  border: 1px solid #007bff; /* 파란색 테두리 */
+  border-radius: 5px;
+  padding: 20px;
+  background-color: #ffffff; /* 흰색 배경 */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
